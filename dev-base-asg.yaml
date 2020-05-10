@@ -1,0 +1,5 @@
+test: value
+tags:
+  product: craft
+  owner: ian
+  env: dev
