@@ -13,4 +13,4 @@ steps:
       secret_key:
         from_secret: AWS-Secret
       source: env/**/*
-      target: /env
+      target: /
