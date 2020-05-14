@@ -1,6 +1,5 @@
 name: craft-dev
 cloud-config:
-  StackName: shared-networking
   BaseVPCStackName: shared-network-layer
 tags:
   product: craft
