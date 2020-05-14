@@ -1,0 +1,9 @@
+name: craft-dev
+cloud-config:
+  AMIId: ami-0e30f3d8cbc900ff4
+  ClusterBaseStackName: cluster-vpc
+  BaseVPCStackName: shared-network-layer
+tags:
+  product: craft
+  owner: Ian
+  env: Dev
