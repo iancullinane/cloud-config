@@ -1,0 +1,7 @@
+name: cluster-base
+cloud-config:
+  BaseEnvStackName: craft-dev
+tags:
+  product: craft
+  owner: Ian
+  env: dev
