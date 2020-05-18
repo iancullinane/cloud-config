@@ -1,8 +1,8 @@
 name: base-asg
 cloud-config:
   AMIId: ami-0e30f3d8cbc900ff4
-  ClusterBaseStackName: cluster-vpc
-  BaseVPCStackName: shared-network-layer
+  ClusterBaseStackName: dev-cluster-base
+  BaseVPCStackName: craft-dev
 tags:
   product: craft
   owner: ian
