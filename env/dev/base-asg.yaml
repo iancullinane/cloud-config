@@ -1,7 +1,7 @@
 name: base-asg
 cloud-config:
   AMIId: ami-0e30f3d8cbc900ff4
-  ClusterBaseStackName: dev-cluster-base
+  # ClusterBaseStackName: dev-cluster-base
   BaseEnvStackName: craft-dev
 tags:
   product: craft
