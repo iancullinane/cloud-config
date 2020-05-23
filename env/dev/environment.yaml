@@ -1,6 +1,6 @@
 name: craft-dev
 cloud-config:
-  BaseVPCStackName: shared-network-layer
+  BaseVPCStackName: craft-dev
 tags:
   product: craft
   owner: Ian
