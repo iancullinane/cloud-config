@@ -1,4 +1,4 @@
-name: shared-network-layer
+name: craft
 cloud-config:
   BaseVPC: 10.20.0.0/16
 tags:
