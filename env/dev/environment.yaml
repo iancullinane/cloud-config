@@ -1,6 +1,7 @@
 name: craft
 cloud-config:
   BaseVPC: 10.20.0.0/16
+  EnableDNS: "Yes"
 tags:
   product: craft
   owner: Ian
