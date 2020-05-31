@@ -1,0 +1,7 @@
+name: craft-worker-asg
+cloud-config:
+  EnablePublicIP: "Yes"
+tags:
+  ProductTag: craft
+  OwnerTag: ian
+  EnvironmentTag: dev
