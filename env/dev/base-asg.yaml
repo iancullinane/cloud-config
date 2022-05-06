@@ -2,8 +2,8 @@ name: base-asg
 cloud-config:
   AMIId: ami-0e30f3d8cbc900ff4
   # ClusterBaseStackName: dev-cluster-base
-  BaseEnvStackName: craft-dev
+  BaseEnvStackName: core-vpc-sheeta-vpc-id
 tags:
-  product: craft
+  product: pazu
   owner: ian
-  env: Dev
+  env: dev
