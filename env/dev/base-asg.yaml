@@ -3,6 +3,7 @@ cloud-config:
   AMIId: ami-0e30f3d8cbc900ff4
   # ClusterBaseStackName: dev-cluster-base
   BaseEnvStackName: core-vpc-sheeta-vpc-id
+  AZ: us-east-2a
 tags:
   product: pazu
   owner: ian
